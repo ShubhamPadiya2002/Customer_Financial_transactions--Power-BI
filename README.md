@@ -1,14 +1,14 @@
-# Customer's Financial Transaction
+# Customer's Financial Transactions
 
 <p align = "center">
     <img src="https://github.com/ShubhamPadiya2002/Northwind_Traders---SQL-Case-Study/blob/main/lp-customs-broker-in-miami.gif" alt="Example GIF" width="800" height="400">
 </p>
 
-Northwind Traders is a fictitious wholesale company specializes in importing and exporting a wide range of food and beverage products globally. The company collaborates with multiple shipping companies from around the world to get their products to their customers: United Package, Federal Shipping, and Speedy Express. It manages orders, products, customers, suppliers, and many other aspects of a small business.
+Customer's Financial Transactions data provides an overview of orders placed by various customers & detailing their financial aspects. It includes essential details such as Order ID, Order Priority, Shipping Cost, and Customer ID, identifying each transaction uniquely. It also categorizes transactions based on Ship Mode, Customer Segment, and Product Classification, covering Product Category, Sub-Category, and Container Type.
 
 ## Project Summary
 
-❑ **Purpose of the Project** -- The purpose of this project is to conduct **comprehensive SQL analysis** on the Northwind Traders dataset which include **data Modelling (EER)** to understand the relationship between tables. In this project, We exploring various business insights through SQL queries.The Project covers 3 levels of analysis questions – Basic , Moderate & Advance Level.
+❑ **Purpose of the Project** -- The purpose of this project is to conduct **comprehensive Customer's transaction** into interactive Dashboard and Sub-Reports which make them better to understand the financial related terms. It include accounting terms such as Gross Revenue, Net Revenue, Discount, Profit Margin, Unit Price, etc into easy & simple methods like metrics through which make decision more better and calculative.
 
 ## EER Model
 
