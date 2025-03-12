@@ -1,7 +1,7 @@
 # Customer's Financial Transactions
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Customer_Financial_transactions--Power-BI/blob/main/Images/download.png" alt="Example GIF" width="800" height="400">
+    <img src="https://github.com/ShubhamPadiya2002/Customer_Financial_transactions--Power-BI/blob/main/Images/d5f77c104128975.5f5bdc0d6d7b6.gif" alt="Example GIF" width="800" height="400">
 </p>
 
 Customer's Financial Transactions data provides an overview of orders placed by various customers & detailing their financial aspects. It includes essential details such as Order ID, Order Priority, Shipping Cost, and Customer ID, identifying each transaction uniquely. It also categorizes transactions based on Ship Mode, Customer Segment, and Product Classification, covering Product Category, Sub-Category, and Container Type.
