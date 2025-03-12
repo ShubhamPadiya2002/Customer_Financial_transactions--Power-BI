@@ -13,10 +13,10 @@ Customer's Financial Transactions data provides an overview of orders placed by 
 ## Dashboard
 
 <p align = "center">
-    <img src="https://github.com/ShubhamPadiya2002/Customer_Financial_transactions--Power-BI/blob/main/Images/Screenshot%202025-03-10%20211730%20(Sales).png" alt="Example IMG" width="800" height="700">
+    <img src="https://github.com/ShubhamPadiya2002/Customer_Financial_transactions--Power-BI/blob/main/Images/Screenshot%202025-03-10%20211730%20(Sales).png" alt="Example IMG" width="900" height="700">
 </p>
 
-**Reports** 
+## Reports
 
 <p align = "center">
     <img src="https://github.com/ShubhamPadiya2002/Customer_Financial_transactions--Power-BI/blob/main/Images/Screenshot%202025-03-10%20212546.png" alt="Example IMG" width="800" height="600">
